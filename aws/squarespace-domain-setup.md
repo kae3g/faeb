@@ -272,7 +272,7 @@ aws cloudfront get-distribution --id $DISTRIBUTION_ID
 - **Mobile Responsiveness**: All device sizes
 
 ---
-*This guide ensures your faeb website is properly integrated with your Squarespace domain while maintaining the highest standards of performance, security, and reliability.* 🌸💙
+*This guide ensures your faeb website is properly integrated with your Squarespace domain while maintaining the highest standards of performance, security, and reliability.* 💚🖤💛💙
 
 **Generated**: 2025-09-13--2130--PACIFIC-WEST-STANDARD  
 **Repository**: https://github.com/kae3g/faeb  

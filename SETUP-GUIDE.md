@@ -399,7 +399,7 @@ tail -f build.log
 - **Be Inclusive**: Welcome everyone
 
 ---
-*This setup guide ensures you can get started with FAEB quickly and safely.* 🌸💙
+*This setup guide ensures you can get started with FAEB quickly and safely.* 💚🖤💛💙
 
 **Generated**: 2025-09-13--2200--PACIFIC-WEST-STANDARD  
 **Repository**: https://github.com/kae3g/faeb  

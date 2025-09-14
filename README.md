@@ -1,4 +1,4 @@
-# 🌸 faeb - Minimalist Foundation for Gentle Revolution
+# 💚 faeb - Minimalist Foundation for Gentle Revolution
 > **b122m faeb internet identity** | **RISC-V Paradigm Principles** | **Verifiable, Reproducible, Minimal**
 
 ## 💙 Philosophy
@@ -232,4 +232,4 @@ sha256sum -c faeb.sha256
 Apache 2.0 - You have the freedom to use, modify, and distribute this work, with the requirement that all derivatives maintain the same minimalist philosophy and verification standards.
 
 ---
-*faeb: Where minimalism meets mathematical certainty in the gentle revolution of software development.* 🌸💙
+*faeb: Where minimalism meets mathematical certainty in the gentle revolution of software development.* 💚💙
